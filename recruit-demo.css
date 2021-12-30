@@ -116,12 +116,12 @@ font-weight: bolder;
             font-size: 3px;
           }
           #textimg>.container-fluid>img{
-            width: 100%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
            }
            #imgtxt>.container-fluid>img{
-           width: 100%;
-            height: 100%;
+           width: 50%;
+            height: 50%;
           }
           .offices>.container-fluid>.row>.col-md-4{
             display: flex;
@@ -133,8 +133,8 @@ font-weight: bolder;
             font-size: 3px;
         }
         .offices>.container-fluid>.row>.col-md-4>iframe{
-           width: 100%;
-            height: 100%;
+           width: 50%;
+            height: 50%;
         }
         #contactusimg>.contactusdiv{
            display:block;
@@ -191,12 +191,12 @@ font-weight: bolder;
             font-size: 3px;
           }
           #textimg>.container-fluid>img{
-           width: 100%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
            }
            #imgtxt>.container-fluid>img{
-           width: 100%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
           }
           .offices>.container-fluid>.row>.col-md-4{
             display: flex;
@@ -265,12 +265,12 @@ font-weight: bolder;
             justify-content: center;
           }
           #textimg>.container-fluid>img{
-           width: 100%;
-            height: 100%;
+          width: 50%;
+            height: 50%;
            }
            #imgtxt>.container-fluid>img{
-           width: 100%;
-            height: 100%;
+           width: 50%;
+            height: 50%;
           }
           .offices>.container-fluid>.row>.col-md-4{
             display: flex;
